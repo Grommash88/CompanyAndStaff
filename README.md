@@ -11,6 +11,7 @@ A program that implements the functionality for accounting for employees:
     -get a list of the highest salaries - getTopSalaryStaff(int count)
     -get a list of the lowest salaries - getLowestSalaryStaff(int count)
 Employees classes:
+
     -Manager - the salary consists of a fixed part and a bonus in the form of 5% of earnings for the company,
     the amount of earnings for the company is randomly generated from 115,000 to 140,000 rubles.
     -TopManager - the salary consists of a fixed part and a bonus in the form of 150% of the salary if the company's income is more than 10 million rubles.
@@ -28,6 +29,7 @@ ru:
     -получить список самых высоких зарплат - getTopSalaryStaff (int count)
     -получить список самых низких зарплат - getLowestSalaryStaff (int count)
 Классы сотрудников:
+
     -Менеджер - зарплата состоит из фиксированной части и бонуса в виде 5% от заработка для компании,
     сумму заработка для компании генерируется случайным образом от 115 000 до 140 000 рублей.
     -TopManager - заработная плата состоит из фиксированной части и бонуса в виде 150% от заработной платы, если доход компании превышает 10 миллионов рублей.
